@@ -34,8 +34,6 @@ public class SingleLinkedListDemo {
 
     // 反转链表
 
-    ListNode reversed = singleLinkedList.reverseList2(node1);
-
     // 打印反转后的链表
     singleLinkedList.list();
     }
