@@ -1,8 +1,10 @@
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
-
-public class TwoSum {
+/**
+ * 两数之和算法 简单难度（leetcode no.1）
+ */
+public class TwoSumNumbers {
 
     public static void main(String[] args) {
         final  int[] nums = { 2, 7, 11, 15 };
